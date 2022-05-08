@@ -1,3 +1,3 @@
 # What-Is-GitHub-Action
 
-Notes on Github Action
+Notes on GitHub Action
