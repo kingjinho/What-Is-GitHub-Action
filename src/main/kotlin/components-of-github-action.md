@@ -47,3 +47,4 @@ jobs:
 ```
 
 # What's Next
+Go to [Essential Features of GitHub Action](essential-features.md)
